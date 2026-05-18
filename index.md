@@ -1,6 +1,9 @@
 # My ByteSized dRTP Demo Site
 This website has been created as part of the ByteSized dRTP session held on Monday 18th May 2026
 
+## Menu
+- [About the site] ({{site.url}}{{site.baseurl}}/about-my-site/)
+
 ## Another heading
 Let's add a list of some content and a couple of links:
 
